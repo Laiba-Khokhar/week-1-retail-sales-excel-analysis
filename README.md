@@ -2,7 +2,6 @@
 📌 Overview
 
 This project was completed as part of my Data Analytics Internship at LogicStack. The goal of this task was to clean a retail sales dataset, perform basic data analysis, create visualizations, and gain hands-on experience with Microsoft Excel.
-
 🎯 Objectives
 Understand the structure of the dataset.
 Clean and format the data.
